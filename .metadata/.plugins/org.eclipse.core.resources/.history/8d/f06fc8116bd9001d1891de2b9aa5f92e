@@ -1,0 +1,5 @@
+package com.codewithsam.backend.model;
+
+public class User {
+
+}

@@ -1,0 +1,5 @@
+package com.codewithsam.backend.repository;
+
+public class UserRepository {
+
+}
