@@ -63,36 +63,35 @@ npm start
 ## Screenshots
 
 ### Home Page
-<!-- 
+
 <p align="center">
-  <img width="700" src="https://user-images.githubusercontent.com/9840435/60266090-9cf9e180-98e7-11e9-9cac-3afeec349bbc.jpg" alt="cli output"/>
+  <img width="700" src="https://github.com/sam301100/springboot_react_project/blob/master/samples/1.jpg" alt="cli output"/>
 </p>
 
- -->
 
 ### Register User
-<!-- 
+
 <p align="center">
-  <img width="700" src="https://user-images.githubusercontent.com/9840435/60266090-9cf9e180-98e7-11e9-9cac-3afeec349bbc.jpg" alt="cli output"/>
+  <img width="700" src="https://github.com/sam301100/springboot_react_project/blob/master/samples/2.jpg" alt="cli output"/>
 </p>
 
- -->
  
-### Edit User
-<!-- 
+### View User
+
 <p align="center">
-  <img width="700" src="https://user-images.githubusercontent.com/9840435/60266090-9cf9e180-98e7-11e9-9cac-3afeec349bbc.jpg" alt="cli output"/>
+  <img width="700" src="https://github.com/sam301100/springboot_react_project/blob/master/samples/3.jpg" alt="cli output"/>
 </p>
 
- -->
+
+### Edit User
+
+<p align="center">
+  <img width="700" src="https://github.com/sam301100/springboot_react_project/blob/master/samples/1.jpg" alt="cli output"/>
+</p>
 
 ### Delete User
-<!-- 
-<p align="center">
-  <img width="700" src="https://user-images.githubusercontent.com/9840435/60266090-9cf9e180-98e7-11e9-9cac-3afeec349bbc.jpg" alt="cli output"/>
-</p>
 
- -->
+User's record gets deleted when clicked on 'Delete' button.
 
 
 ## 🤝 Contributing
