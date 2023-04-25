@@ -65,28 +65,28 @@ npm start
 ### Home Page
 
 <p align="center">
-  <img width="700" src="https://github.com/sam301100/springboot_react_project/blob/master/samples/1.jpg" alt="cli output"/>
+  <img width="700" src="https://github.com/sam301100/springboot_react_project/blob/master/samples/1.jpg" alt="screenshot1"/>
 </p>
 
 
 ### Register User
 
 <p align="center">
-  <img width="700" src="https://github.com/sam301100/springboot_react_project/blob/master/samples/2.jpg" alt="cli output"/>
+  <img width="700" src="https://github.com/sam301100/springboot_react_project/blob/master/samples/2.jpg" alt="screenshot2"/>
 </p>
 
  
 ### View User
 
 <p align="center">
-  <img width="700" src="https://github.com/sam301100/springboot_react_project/blob/master/samples/3.jpg" alt="cli output"/>
+  <img width="700" src="https://github.com/sam301100/springboot_react_project/blob/master/samples/3.jpg" alt="screenshot3"/>
 </p>
 
 
 ### Edit User
 
 <p align="center">
-  <img width="700" src="https://github.com/sam301100/springboot_react_project/blob/master/samples/1.jpg" alt="cli output"/>
+  <img width="700" src="https://github.com/sam301100/springboot_react_project/blob/master/samples/4.jpg" alt="screenshot4"/>
 </p>
 
 ### Delete User
