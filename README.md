@@ -79,14 +79,14 @@ npm start
 ### View User
 
 <p align="center">
-  <img width="700" src="https://github.com/sam301100/springboot_react_project/blob/master/samples/3.jpg" alt="screenshot3"/>
+  <img width="700" src="https://github.com/sam301100/springboot_react_project/blob/master/samples/3 .jpg" alt="screenshot3"/>
 </p>
 
 
 ### Edit User
 
 <p align="center">
-  <img width="700" src="https://github.com/sam301100/springboot_react_project/blob/master/samples/4.jpg" alt="screenshot4"/>
+  <img width="700" src="https://github.com/sam301100/springboot_react_project/blob/master/samples/4 .jpg" alt="screenshot4"/>
 </p>
 
 ### Delete User
